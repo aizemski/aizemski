@@ -1,4 +1,4 @@
-# Aleksander Iżemski [CV](https://docs.google.com/document/d/1Sa6jt4hYRV_7Z4oJ12SuPlUjnljUIqQ0PmLu3m6uRjs/edit?usp=sharing)
+# Aleksander Iżemski
 
 ## Education
 M.Sc. Artificial Intelligence - in proggress
